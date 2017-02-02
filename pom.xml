@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>groovy-test</module>
+        <module>groovy-poc</module>
         <module>algos</module>
         <module>ignite-test</module>
     </modules>

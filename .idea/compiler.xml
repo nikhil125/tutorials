@@ -23,12 +23,14 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="algos" />
+        <module name="groovy-poc" />
         <module name="groovy-test" />
         <module name="ignite-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="algos" target="1.8" />
+      <module name="groovy-poc" target="1.8" />
       <module name="groovy-test" target="1.8" />
       <module name="ignite-test" target="1.8" />
       <module name="tutorials" target="1.8" />

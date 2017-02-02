@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algos/algos.iml" filepath="$PROJECT_DIR$/algos/algos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/groovy-test/groovy-test.iml" filepath="$PROJECT_DIR$/groovy-test/groovy-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovy-poc/groovy-poc.iml" filepath="$PROJECT_DIR$/groovy-poc/groovy-poc.iml" />
       <module fileurl="file://$PROJECT_DIR$/ignite-test/ignite-test.iml" filepath="$PROJECT_DIR$/ignite-test/ignite-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/tutorials.iml" filepath="$PROJECT_DIR$/tutorials.iml" />
     </modules>
